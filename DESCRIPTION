@@ -1,0 +1,12 @@
+Package: PREDICTv3
+Type: Package
+Title: An updated PREDICT breast cancer prognostication and treatment benefit prediction model
+Version: 0.1.0
+Author: Yi-Wen Hsiao, Gordon C. Wishart, Paul D.P. Pharaoh, Pei-Chen Peng
+Maintainer: Yi-Wen Hsiao <yi-wen.hsiao@cshs.org>
+Description: This R package provides an updated implementation of the PREDICT Breast cancer prognostication model v3.0.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
