@@ -3,6 +3,10 @@
 #' @title Breast Cancer Prognosis Prediction Tool
 #' @description Predicts the survival outcome for a patient based on their clinical information.
 #'
+#' @import tidyverse
+#' @import dplyr
+#' @import tibble
+#'
 #' @param year The year of the patient's diagnosis.
 #' @param age The patient's age at the time of diagnosis.
 #' @param smoker Indicates whether the patient has a history of smoking.
@@ -44,7 +48,24 @@
 #' traz <- toyData[1, 'traz']
 #' bis <- toyData[1, 'bis']
 #' censor <- 10
-#' PREDICTv3(year=year,  age=age, screen=screen, size=size, grade=grade, nodes=nodes, er=er, her2=her2, ki67=ki67, pr=pr, radio=radio, heart.gy=heart.gy, horm=horm, gen=gen, traz=traz, bis=bis, smoker = smoker, censor=censor)
+#' PREDICTv3(year=year,
+#'           age=age,
+#'           screen=screen,
+#'           size=size,
+#'           grade=grade,
+#'           nodes=nodes,
+#'           er=er,
+#'           her2=her2,
+#'           ki67=ki67,
+#'           pr=pr,
+#'           radio=radio,
+#'           heart.gy=heart.gy,
+#'           horm=horm,
+#'           gen=gen,
+#'           traz=traz,
+#'           bis=bis,
+#'           smoker = smoker,
+#'           censor=censor)
 
 PREDICTv3 <- function(year, age, smoker, er, pr, her2, ki67,
                        size, grade, screen, nodes,

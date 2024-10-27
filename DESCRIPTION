@@ -9,6 +9,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: 
+    dplyr,
+    tibble,
     tidyverse,
     R (>= 2.10)
 RoxygenNote: 7.3.1

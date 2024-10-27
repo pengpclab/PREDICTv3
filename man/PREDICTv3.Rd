@@ -85,5 +85,22 @@ gen <- toyData[1, 'gen']
 traz <- toyData[1, 'traz']
 bis <- toyData[1, 'bis']
 censor <- 10
-PREDICTv3(year=year,  age=age, screen=screen, size=size, grade=grade, nodes=nodes, er=er, her2=her2, ki67=ki67, pr=pr, radio=radio, heart.gy=heart.gy, horm=horm, gen=gen, traz=traz, bis=bis, smoker = smoker, censor=censor)
+PREDICTv3(year=year,
+          age=age,
+          screen=screen,
+          size=size,
+          grade=grade,
+          nodes=nodes,
+          er=er,
+          her2=her2,
+          ki67=ki67,
+          pr=pr,
+          radio=radio,
+          heart.gy=heart.gy,
+          horm=horm,
+          gen=gen,
+          traz=traz,
+          bis=bis,
+          smoker = smoker,
+          censor=censor)
 }
