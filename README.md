@@ -1,4 +1,4 @@
-## PREDICTv3 package
+## PREDICTv3 R package
 
 The PREDICTv3 R package is a latestly updated PREDICT tool designed to enhance breast cancer prognosis by providing clinicians and researchers with an advanced predictive model. Building upon the foundation of previous iterations, PREDICTv3 integrates a comprehensive set of clinical variables—including patient demographics, tumor characteristics, and treatment modalities—to offer accurate survival predictions tailored to individual patients. PREDICTv3 further enables users to assess the potential benefits and harms of various treatment options, facilitating personalized care strategies. This package aims to support informed decision-making in clinical practice and contribute to ongoing research in oncology.
 
