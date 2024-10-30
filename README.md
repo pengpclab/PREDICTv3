@@ -51,6 +51,7 @@ PREDICTv3(year=year,
           bis=bis,
           smoker = smoker,
           censor=censor)
+```
 
 ### Citation
 Grootes, I., Wishart, G.C. and Pharoah, P.D.P., 2024. An updated PREDICT breast cancer prognostic model including the benefits and harms of radiotherapy. NPJ Breast Cancer, 10(1), p.6.
@@ -63,5 +64,3 @@ Yi-Wen Hsiao (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
 Gordon C. Wishart (Anglia Ruskin University, Cambridge, UK)
 Paul D.P. Pharaoh (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
 Pei-Chen Peng (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
-
-```
