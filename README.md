@@ -64,6 +64,6 @@ Yi-Wen Hsiao (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
 
 Gordon C. Wishart (Anglia Ruskin University, Cambridge, UK)
 
-Paul D.P. Pharaoh (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
+Paul D.P. Pharoah (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
 
 Pei-Chen Peng (Cedars-Sinai Medical Center, West Hollywood, CA, USA)
